@@ -7,4 +7,3 @@ chmod -R go-w "$(brew --prefix)/share/zsh"
 rm ~/.zshrc
 mv ~/Brew-install/.zshrc ~
 brew install --cask --appdir ~/Desktop steam --no-quarantine
-rm ~/Brew-install
