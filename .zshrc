@@ -1,1 +1,1 @@
-eval "$(<Homebrew prefix path>/bin/brew shellenv)"
+eval "$(~/homebrew/bin/brew shellenv)"
