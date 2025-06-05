@@ -6,4 +6,4 @@ git clone https://github.com/CABNlT/Brew-install.git | sh ~/Brew-install/install
 ```
 This will install brew and steam
 
-Connect your computer to your phones mobile hotspot as steams website is blocked on the wifi.(Because the steam store and download links for the games are blocked). I would reccomend making a new steam account if you have one and connecting those two accounst together using their family account feature. If you dont your steam account will be signed out on all other computers.
+Connect your computer to your phones mobile hotspot as steams website is blocked on the wifi.(Because the steam store and download links for the games are blocked). I would reccomend making a new steam account if you have one and connecting those two accounts together using their family account feature. If you dont your steam account will be signed out on all other computers.
