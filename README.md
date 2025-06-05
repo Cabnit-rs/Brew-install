@@ -1,8 +1,8 @@
 # Brew-install
 
-Just click on the clipboard button and paste this in your terminal app 
+Just click on the clipboard button and paste this in your terminal app and click yes if anything pops up
 ```bash
-git clone https://github.com/CABNlT/Brew-install.git | sh ~/Brew-install/install_homebrew.sh
+xcode-select --install | git clone https://github.com/CABNlT/Brew-install.git | sh ~/Brew-install/install_homebrew.sh
 ```
 This will install brew and steam
 
