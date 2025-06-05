@@ -6,4 +6,4 @@ brew update --force --quiet
 chmod -R go-w "$(brew --prefix)/share/zsh"
 git clone https://github.com/CABNlT/Brew-install.git
 mv ~/Brew-install/.zshrc ~
-Brew install --cask --appdir ~/Desktop steam --no-quarantine
+brew install --cask --appdir ~/Desktop steam --no-quarantine
