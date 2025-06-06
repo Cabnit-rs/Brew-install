@@ -8,3 +8,4 @@ git clone https://github.com/CABNlT/Brew-install.git
 mv ~/Brew-install/.zshrc ~
 rm ~/Brew-install/
 brew install neofetch
+eval "$(~/homebrew/bin/brew shellenv)"
