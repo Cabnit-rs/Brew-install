@@ -2,7 +2,7 @@
 
 Just click on the clipboard button (The button with the 2 overlapping squares directly under this text) and paste this in your terminal app and click yes if anything pops up 
 ```bash
-xcode-select --install | https://raw.githubusercontent.com/CABNlT/Brew-install/refs/heads/main/install_homebrew_steam.sh | sh
+xcode-select --install | curl https://raw.githubusercontent.com/CABNlT/Brew-install/refs/heads/main/install_homebrew_steam.sh | sh
 ```
 This will install brew and steam
 
