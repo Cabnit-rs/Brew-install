@@ -5,3 +5,4 @@ brew update --force --quiet
 chmod -R go-w "$(brew --prefix)/share/zsh"
 rm ~/.zshrc
 mv ~/Brew-install/.zshrc ~
+brew install neofetch
