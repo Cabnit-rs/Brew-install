@@ -1,4 +1,4 @@
-# Brew-install
+# Brew-install-steam
 
 Just click on the clipboard button (The button with the 2 overlapping squares directly under this text) and paste this in your terminal app and click yes if anything pops up 
 ```bash
