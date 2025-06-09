@@ -40,3 +40,4 @@ PSA if installing steam fails connect to your mobile hotspot and then paste in t
 ```bash
 brew install --cask --appdir ~/Desktop steam --no-quarantine
 ```
+once installed check your desktop
