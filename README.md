@@ -34,6 +34,12 @@ curl https://raw.githubusercontent.com/CABNlT/Brew-install/refs/heads/main/insta
 ```bash
 curl https://raw.githubusercontent.com/CABNlT/Brew-install/refs/heads/main/install_homebrew_maccy.sh | sh
 ```
+\
+\
+\
+\
+\
+\
 
 
 
