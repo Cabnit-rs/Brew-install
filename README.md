@@ -35,6 +35,13 @@ curl https://raw.githubusercontent.com/CABNlT/Brew-install/refs/heads/main/insta
 curl https://raw.githubusercontent.com/CABNlT/Brew-install/refs/heads/main/install_homebrew_maccy.sh | sh
 ```
 
+
+
+
+
+
+
+
 PSA if installing steam fails connect to your mobile hotspot and then paste in the command under this
 
 ```bash
