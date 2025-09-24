@@ -1,6 +1,6 @@
 #!/bin/zsh
-mkdir homebrew
-mkdir homebrew/bin/brew
+mkdir ~/homebrew
+mkdir ~/homebrew/bin/brew
 git clone https://github.com/Homebrew/brew homebrew
 eval "$(~/homebrew/bin/brew shellenv)"
 brew update --force --quiet
