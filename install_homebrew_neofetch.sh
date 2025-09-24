@@ -1,7 +1,6 @@
 #!/bin/zsh
 mkdir ~/homebrew
-mkdir ~/homebrew/bin/brew
-git clone https://github.com/Homebrew/brew homebrew
+curl -L https://github.com/Homebrew/brew/tarball/main | tar xz --strip-components 1 -C homebrew
 eval "$(~/homebrew/bin/brew shellenv)"
 brew update --force --quiet
 chmod -R go-w "$(brew --prefix)/share/zsh"
